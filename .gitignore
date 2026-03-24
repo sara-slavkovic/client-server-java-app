@@ -1,0 +1,22 @@
+# Java / NetBeans build output
+**/build/
+**/dist/
+**/out/
+**/target/
+
+# compiled files
+**/*.class
+
+# NetBeans private files
+**/nbproject/private/
+
+# IntelliJ
+**/.idea/
+**/*.iml
+
+# logs
+**/*.log
+
+# OS files
+**/Thumbs.db
+**/.DS_Store
